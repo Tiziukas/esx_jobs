@@ -1,4 +1,4 @@
-Locales['en'] = {
+return {
   -- Global menus
   ['cloakroom'] = 'locker Room',
   ['cloak_change'] = 'press ~INPUT_PICKUP~ to change clothes.',

@@ -1,4 +1,4 @@
-Locales['nl'] = {
+return {
   -- Global menus
   ['cloakroom']                 = 'Kleedkamer',
   ['cloak_change']              = 'Druk op ~INPUT_PICKUP~ om je werkkleding aan/uit te doen.',

@@ -1,4 +1,4 @@
-Locales['fi'] = {
+return {
   -- Global menus
   ['cloakroom'] = 'Pukulokero',
   ['cloak_change'] = 'paina ~INPUT_PICKUP~ vaihtaaksesi vaatteet',

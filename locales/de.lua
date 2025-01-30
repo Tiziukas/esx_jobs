@@ -1,4 +1,4 @@
-Locales['de'] = {
+return {
   -- Global menus
   ['cloakroom'] = 'Umkleide',
   ['cloak_change'] = 'Drücke [E] um dich umzuziehen.',

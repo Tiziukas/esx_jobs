@@ -1,4 +1,4 @@
-Locales["hu"] = {
+return {
 	-- Global menus
 	["cloakroom"] = "Öltözö szoba",
 	["cloak_change"] = "Nyomj [E] gombot a ruha választáshos.",
